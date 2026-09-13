@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 About Me<br><br>I'm a Information Science Engineering student at NMIT,passionate about building practical and user-friendly web applications.<br><br> 💻 Currently learning Full-Stack Web Development<br> ⚛️ Working with HTML, CSS, JavaScript, React.js<br> 🌱 Currently exploring Node.js, Express.js, MongoDB & backend development<br> 🚀 Building projects to strengthen my development skills and prepare for software development internships<br>🧠 Practicing Data Structures & Algorithms in Java<br> 🤖 Interested in using AI tools and APIs to build smarter applications<br> 🎯 Goal: Become a skilled Full-Stack Developer and build products that solve real-world problems<br><br><br>
 
 
