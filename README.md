@@ -11,6 +11,14 @@
 ![](https://github-readme-stats.shion.dev/api?username=yashaspnolamba-droid&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=yashaspnolamba-droid&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yashaspnolamba-droid&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 My Stats
+
+- 💻 **GitHub Repositories:** 5+
+- 🧠 **LeetCode Problems Solved:** 85+
+- ☕ **Primary DSA Language:** Java
+- ⚛️ **Frontend:** React.js, JavaScript, HTML, CSS
+- 🚀 **Currently Learning:** Node.js, Express.js & MongoDB
+- 🛠️ **Projects Built:** 5+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashaspnolamba-droid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
