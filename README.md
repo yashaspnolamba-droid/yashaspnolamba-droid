@@ -20,9 +20,6 @@
 - 🚀 **Currently Learning:** Node.js, Express.js & MongoDB
 - 🛠️ **Projects Built:** 5+
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashaspnolamba-droid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
